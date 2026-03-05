@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="profile"/>
-</p>
 
 <h2 align="center">
 Frontend Developer | Building Clean & Responsive Web Interfaces
