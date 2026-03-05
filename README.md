@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="profile"/>
+</p>
 
-<!--
-**hopth/hopth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+Frontend Developer | Building Clean & Responsive Web Interfaces
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Profile views  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=&color=blue&style=flat"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Overview
+
+- 🎓 Computer Science Student  
+- 🎯 Focus: Frontend Development & UI Design  
+- ⚛️ Tools: HTML, CSS, JavaScript, React , Tailwind CSS  
+- 🚀 Currently exploring: Modern frontend architectures, responsive design, and interactive web apps  
+
+
