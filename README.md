@@ -3,12 +3,6 @@
 Frontend Developer | Building Clean & Responsive Web Interfaces
 </h2>
 
-<p align="center">
-  Profile views  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=&color=blue&style=flat"/>
-</p>
-
----
 
 ## 📖 Overview
 
