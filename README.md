@@ -8,10 +8,10 @@ Frontend Developer | Building Clean & Responsive Web Interfaces
 
 - 🎓 Computer Science Student  
 - 🎯 Focus: Frontend Development & UI Design
-- - 🚀 Currently exploring: Modern frontend architectures, responsive design, and interactive web apps
+- 🚀 Currently exploring: Modern frontend architectures, responsive design, and interactive web apps
  
   
--## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
