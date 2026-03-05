@@ -7,8 +7,21 @@ Frontend Developer | Building Clean & Responsive Web Interfaces
 ## 📖 Overview
 
 - 🎓 Computer Science Student  
-- 🎯 Focus: Frontend Development & UI Design  
-- ⚛️ Tools: HTML, CSS, JavaScript, React , Tailwind CSS  
-- 🚀 Currently exploring: Modern frontend architectures, responsive design, and interactive web apps  
+- 🎯 Focus: Frontend Development & UI Design
+- - 🚀 Currently exploring: Modern frontend architectures, responsive design, and interactive web apps
+ 
+  
+-## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p> 
+
 
 
