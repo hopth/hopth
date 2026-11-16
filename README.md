@@ -1,8 +1,12 @@
 # Hi, I'm Hosea
 
-\<h2 align="center">   Aspiring Network Engineer | Networking & Infrastructure \</h2>
+<h2 align="center">
+  Aspiring Network Engineer | Networking & Infrastructure
+</h2>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=287BC0&center=true&vCenter=true&width=550&height=40&lines=Learning+%7C+Building+%7C+Troubleshooting;Routing+%26+Switching;Network+Security+%26+Automation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=287BC0\&center=true\&vCenter=true\&width=550\&height=40\&lines=Learning+%7C+Building+%7C+Troubleshooting;Routing+%26+Switching;Network+Security+%26+Automation)" alt="Introduction"/> \</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=287BC0&center=true&vCenter=true&width=550&height=40&lines=Learning+%7C+Building+%7C+Troubleshooting;Routing+%26+Switching;Network+Security+%26+Automation" alt="Introduction"/>
+</p>
 
 ## About Me
 
@@ -16,9 +20,15 @@ I'm a Computer Science graduate focused on Network Engineering. Currently buildi
 
 ## Technologies & Tools
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode](https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode)" alt="Technologies and tools"/> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" alt="Technologies and tools"/>
+</p>
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)" alt="Cisco"/>   \<img src="[https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)" alt="Wireshark"/>   \<img src="[https://img.shields.io/badge/Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Packet_Tracer-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)" alt="Packet Tracer"/> \</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
+</p>
 
 ## Currently Learning
 
@@ -31,7 +41,7 @@ I'm a Computer Science graduate focused on Network Engineering. Currently buildi
 
 ## Connect With Me
 
-
+[LinkedIn](https://www.linkedin.com/in/hosea-shimeles-576456227/)
 
 ---
 
