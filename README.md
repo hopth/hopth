@@ -1,35 +1,39 @@
 # Hi, I'm Hosea
 
-<h2 align="center">
-Network Engineering | Building & Understanding Computer Networks
-</h2>
+\<h2 align="center">
+&#x20; Network Engineering | Building, Configuring & Understanding Networks
+\</h2>
 
-## 📖 About Me
+## About Me
 
-- Recent Computer Science Graduate
-- Currently focusing on Network Engineering and Networking Fundamentals
-- Background in software development and programming
-- Interested in building practical technical solutions and expanding my engineering skills
+- Computer Science Graduate
+- Focused on Network Engineering and Computer Networking
+- Building a strong foundation in networking, routing, and switching
+- Interested in network infrastructure, troubleshooting, and network security
+- Programming background with an interest in Python-based network automation
+- Committed to continuous learning through practical labs and projects
 
-## 🛠️ Languages, Technologies & Tools
+## Technologies & Tools
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-</p>
+\<p align="left">   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg)" height="40" alt="Cisco"/>   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" height="40" alt="Linux"/>   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" height="40" alt="Python"/>   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" height="40" alt="Git"/>   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" height="40" alt="GitHub"/> \</p>
 
-## Currently Exploring
+## Currently Learning
 
-- Computer Networking Fundamentals
-- TCP/IP and OSI Models
+- Networking Fundamentals
+- OSI and TCP/IP Models
 - IPv4 Addressing and Subnetting
 - Routing and Switching
-- VLANs and Network Configuration
+- VLANs and Inter-VLAN Routing
+- Cisco Networking and CCNA
 - Cisco Packet Tracer
 - Network Troubleshooting
+- Linux Networking
+
+## Areas of Interest
+
+- Network Engineering
+- Network Infrastructure
+- Network Security
+- Network Automation
+- IT Infrastructure
+
