@@ -8,11 +8,11 @@
 
 I'm a Computer Science graduate focused on Network Engineering. Currently building my skills in networking, infrastructure, and network security through hands-on learning and practical labs.
 
-- 🌐 Networking fundamentals, routing & switching
-- 🔧 Cisco CCNA and Packet Tracer
-- 🐧 Linux administration
-- 🔐 Network security
-- 🐍 Python for network automation
+- Networking fundamentals, routing & switching
+- Cisco CCNA and Packet Tracer
+- Linux administration
+- Network security
+- Python for network automation
 
 ## Technologies & Tools
 
@@ -31,5 +31,8 @@ I'm a Computer Science graduate focused on Network Engineering. Currently buildi
 
 ## Connect With Me
 
+
+
+---
 
 *Learning by building. Growing through practice.*
